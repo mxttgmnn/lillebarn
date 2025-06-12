@@ -1,6 +1,6 @@
 baseURL: "https://mxttgmnn.github.io/lillebarn/"
 title: Lillebarn
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
