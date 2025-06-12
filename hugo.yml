@@ -93,12 +93,12 @@ fuseOpts:
 menu:
   main:
     - identifier: categories
-      name: categories
-      url: /categories/
+      name: Kategorien
+      url: /k/
       weight: 10
     - identifier: tags
-      name: tags
-      url: /tags/
+      name: Tags
+      url: /t/
       weight: 20
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
