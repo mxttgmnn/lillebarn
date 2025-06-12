@@ -39,13 +39,13 @@ params:
   tocopen: false
 
 assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    # favicon: "<link / abs url>"
-    # favicon16x16: "<link / abs url>"
-    # favicon32x32: "<link / abs url>"
-    # apple_touch_icon: "<link / abs url>"
-     #safari_pinned_tab: "<link / abs url>"
+  # disableHLJS: true # to disable highlight.js
+  # disableFingerprinting: true
+  # favicon: "<link / abs url>"
+  # favicon16x16: "<link / abs url>"
+  # favicon32x32: "<link / abs url>"
+  # apple_touch_icon: "<link / abs url>"
+  # safari_pinned_tab: "<link / abs url>"
 
 label:
   text: "Home"
@@ -53,12 +53,12 @@ label:
   # iconHeight: 35
 
 socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+  - name: x
+    url: "https://x.com/"
+  - name: stackoverflow
+    url: "https://stackoverflow.com"
+  - name: github
+    url: "https://github.com/"
 
 # analytics:
   google:
