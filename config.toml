@@ -1,8 +1,0 @@
-baseURL = "https://mxttgmnn.github.io/lillebarn/"
-languageCode = "de-de"
-title = "Lillebarn"
-theme = "PaperMod"
-summaryLength = 20
-enableRobotsTXT = true
-[pagination]
-  pagerSize = 10
