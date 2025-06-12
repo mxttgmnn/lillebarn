@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mxttgmnn.github.io/lillebarn/sitemap.xml
