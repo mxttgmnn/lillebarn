@@ -4,4 +4,4 @@ title = "Lillebarn"
 theme = "PaperMod"
 summaryLength = 20
 enableRobotsTXT = true
-paginate = 10
+paginate = 15
